@@ -1,5 +1,2 @@
 hello this is readme
-
-
-
-try new merge
+thhis is not readme
